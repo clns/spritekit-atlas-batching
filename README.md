@@ -7,7 +7,8 @@ Sample Xcode 13 project using a Sprite Atlas inside an Assets Catalog.
 
 Related questions:
 
-- TODO
+- https://stackoverflow.com/questions/69957326/spritekit-draw-calls-not-batched-when-using-a-texture-atlas-from-data-stored-in
+- https://developer.apple.com/forums/thread/694641
 
 ## Visual
 
